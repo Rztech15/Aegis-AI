@@ -1,4 +1,4 @@
-<div align="center"><img src="./aegis-logo.png" alt="Aegis AI Logo" width="180"/>Aegis AI
+<div align="center"><img src="./aegis-logo.png" alt="Aegis AI Logo" width="180"/>
 
 AI-Powered Communication, Safety & Threat Intelligence
 
